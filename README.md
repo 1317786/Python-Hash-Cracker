@@ -31,11 +31,11 @@ Python script code for MD5 hash cracker using nano text editor: <br/>
 <img src="list of passwords.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Active Directory and create Domain name: <br/>
+Generated an MD5 hash tied to the password 'admin': <br/>
 <img src="md5 hash example.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
+Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
 <img src="verfication.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
