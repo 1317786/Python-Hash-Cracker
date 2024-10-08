@@ -16,11 +16,10 @@ In this project, we will be creating a Python script designed to crack MD5 hashe
 
 <h2>Takeaways</h2>
 
-- <b>Active Directory Setup and Configuration</b>: Successfully established a home lab environment featuring Active Directory on Windows Server 2019. Demonstrated competency in setting up a virtual network using Oracle VirtualBox, installing and configuring a domain controller, and setting up necessary network interfaces for internal and external communications. This hands-on experience solidified foundational skills in managing Active Directory roles and features.
+- <b>Python Script Development for MD5 Hash Cracking</b>: Successfully developed a Python script that deciphers MD5 hashes to reveal plain text passwords, emphasizing practical applications of cryptographic techniques. Demonstrated proficiency in utilizing Python's hashlib module, enhancing skills in creating security tools and understanding hash function vulnerabilities.
 
-- <b>Domain and Network Services Implementation</b>: Gained practical experience in configuring DNS and DHCP services essential for network management within the Active Directory framework. Proficient in creating and managing Active Directory objects such as users, groups, and organizational units, enhancing skills in network resource administration and user management.
+- <b>Testing and Verification of Script Functionality</b>: Acquired practical experience by rigorously testing the hash cracker against a custom password list, validating the script’s effectiveness in identifying the correct passwords. This process highlighted the importance of comprehensive testing in software development, ensuring the tool’s functionality and reliability in real-world scenarios.
 
-- <b>Security Policy and Access Management:</b>: Developed a thorough understanding of group policies and user access management within Active Directory. Implemented security policies that enforce user authentication and authorization practices, improving the security posture of the network. This project showcased the ability to manage and secure network resources effectively through Active Directory.
 
 <h2>Program walk-through:</h2>
 
