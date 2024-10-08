@@ -30,7 +30,7 @@ Create the first VM which will also act as our Domain Controller and house Activ
 <br />
 <br />
 Configure 2 network adapters with one being used to connect to the outside internet and the other being used to connect to Virtual Box private network that the clients can connect to:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="list of passwords.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install Active Directory and create Domain name: <br/>
