@@ -7,13 +7,12 @@ This project is designed to deepen understanding of Windows Server 2019 by confi
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Python</b> 
+- <b>Nano</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Server 2019</b>
+- <b>Kali Linux</b> 
 
 <h2>Takeaways</h2>
 
