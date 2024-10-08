@@ -26,7 +26,7 @@ This project is designed to deepen understanding of Windows Server 2019 by confi
 
 <p align="center">
 Create the first VM which will also act as our Domain Controller and house Active Directory: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Python code.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure 2 network adapters with one being used to connect to the outside internet and the other being used to connect to Virtual Box private network that the clients can connect to:  <br/>
