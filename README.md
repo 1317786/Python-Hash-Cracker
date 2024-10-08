@@ -1,8 +1,8 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Python MD5 Hash Cracker</h1>
 
 
 <h2>Description</h2>
-This project is designed to deepen understanding of Windows Server 2019 by configuring and managing a domain controller within a virtualized network. We will explore essential network services such as DNS and DHCP, and learn how to manage user and group policies effectively. This hands-on experience will not only enhance practical skills in network administration but also provide insights into the critical role of Active Directory in maintaining organizational security and efficiency. <br />
+In this project, we will be creating a Python script designed to crack MD5 hashes. The focus will be on developing a script that can take an MD5 hash input and employ a list of potential plaintext passwords to uncover the original text. This practical exercise serves as an excellent introduction to the vulnerabilities of MD5 hashes and the techniques used for their decryption. <br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -34,7 +34,7 @@ Configure 2 network adapters with one being used to connect to the outside inter
 <br />
 <br />
 Install Active Directory and create Domain name: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="md5 hash example.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
