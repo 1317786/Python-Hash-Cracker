@@ -8,7 +8,7 @@ In this project, we will be creating a Python script designed to crack MD5 hashe
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Nano</b>
+- <b>Nano Text Editor</b>
 
 <h2>Environments Used </h2>
 
